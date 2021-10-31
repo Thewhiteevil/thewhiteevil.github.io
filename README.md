@@ -1,2 +1,1 @@
-# thewhiteevil.github.io
-thewhiteevil.github.io
+This is my personal blog. Feel free to visit :)
